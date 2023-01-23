@@ -1,4 +1,4 @@
-## teachablemachine
+## teachablemachine(proceso)
 # Clase 1
 En la primera clase he nombrado los sectores por los nombres de contenedores y he ido mirando fotos de objetos que tirarias en esos contenedores.
 # Clase 2
