@@ -10,6 +10,7 @@ En la ultima clase probe varias fotos para ver si la IA sabria en que contenedor
 ![images (6)](https://user-images.githubusercontent.com/122264819/214006399-24246942-240f-43cc-acd2-18b9aca15fb4.jpeg) y una botella de zumo
 # pruebas
 He probado con los archivos subidos en aules y es muy efectivo menos en un ejemplo ![bandeja_aluminio](https://user-images.githubusercontent.com/122264819/214512499-e299e3e2-f156-4ace-9ff0-f374c3ab7348.jpeg) creo que el fallo ha sido por que a comparado el envase con el carton del envase de los huevos es decir el contenedor azul pero por los demas a sido muy eficaz
+# prubas con fotos de las carpetas 1 y 2(sobre todo del 2)
 | IMAGEN          | CATEGORIA REAL | CATEGORIA DEL MODELO | PORCENTAJE | comentario               |
 |-----------------|----------------|----------------------|------------|--------------------------|
 | Badeja aluminio | amarillo       | azul                 | 97         |                          |
